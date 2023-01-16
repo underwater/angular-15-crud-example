@@ -1,0 +1,27 @@
+{
+  "tutorials": [
+    {
+      "id": 1,
+      "title": "Learn TypeScript",
+      "description": "Learn how to use TypeScript to write more robust and maintainable code",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "Learn Angular",
+      "description": "Learn how to build web applications using Angular",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "Learn React",
+      "description": "Learn how to build web applications using React",
+      "published": false
+    },
+    {
+      "title": "Learn Python",
+      "description": "A beginner book on Python",
+      "id": 4
+    }
+  ]
+}
